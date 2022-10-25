@@ -1,0 +1,30 @@
+.container{
+    width: 100%;
+    margin-left:30px;
+    display: block;
+    margin-top: 30px;
+    border-radius:3px;
+    padding:0 42px 0 10px;
+    margin-left:30px
+}
+
+.project{
+    padding: 15px;
+    box-shadow: 10px solid black;
+    margin-top: 30px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.box{
+    margin:15px;
+    margin-top:50px;
+}
+.head{
+    display: inline-block;
+    padding:0px 12px;
+    color: rgb(85, 85, 85);
+    margin-bottom: 20px;
+    margin-left:30px;
+    letter-spacing: 5px;
+    font-size: 11px;
+}
