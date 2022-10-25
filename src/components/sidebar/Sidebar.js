@@ -12,7 +12,7 @@ class Sidebar extends Component {
 
                 <img src="images/profile-pic.png" />
                 <p style={{ color: 'black', fontWeight: 'bold', fontSize:'14px' }} className="gmail"><a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJftvBffjPmxWxvfHWRHWnhTbpQgPxBxvkcnPpFpFqbhrXMCHXSJTsCXCVLsQzgRcVLpnPL" rel="opener noreferrer" target="_blank" className="fa fa-envelope"></a> arthurgodoygomides@gmail.com</p>
-
+                <a href='https://drive.google.com/file/d/1ZMkK7Bja6L_i5Xb-EpMPy9GCKvJ4K1-y/view?usp=sharing'>Meu Currículo</a>
                 <ul className="sidebar-nav">
                     <li className="sidebar-nav-items"><Link smooth to="/#about" className="links">Sobre</Link></li>
                     <li className="sidebar-nav-items"><Link smooth to="/#interest" className="links">Interesses </Link></li>
