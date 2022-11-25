@@ -9,7 +9,7 @@ const projects = [
         name: 'Task App',
         description: 'Aplicação em Laravel, Um aplicativo de To-Do, totalmente personalizável, com login e criação de sessões.',
         tecnologies: 'Laravel - MYSQL - Bootstrap',
-        link: 'https://github.com/Arthur-Godoy/TaskApp',
+        link: 'http://taskapp-arthur.herokuapp.com/board/4',
         images:[
             {
                 url:'images/TaskApp/1.PNG',
@@ -50,7 +50,7 @@ const projects = [
     {
         name: 'ToDoApp',
         tecnologies: 'Laravel - MYSQL - Bootstrap',
-        link: 'https://github.com/Arthur-Godoy/toDoApp',
+        link: 'https://todoapp-simple-arthur.herokuapp.com/',
         description: 'Aplicação em Laravel de uma plicação To-Do, dessa vez com um design mais minimalista e com menos funcionalidades que o Task App. ',
         images:[
             {
