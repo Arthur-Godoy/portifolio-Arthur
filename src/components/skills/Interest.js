@@ -26,7 +26,7 @@ class Interest extends Component {
             <ScrollAnimation offset={0} animateIn="fadeInLeft" duration={2.4} animateOnce={true} initiallyVisible={true}>
               <div className={classes.other}>
                 <h3>Outros</h3>
-                <p>Tenho também grande interesse em Python, mesmo que não tenha me aprofondado ainda no assunto, tenho também grande interesse em AWS e Node para o back-end</p>
+                <p>Tenho também vontade de aprofundar em Python, mesmo que não tenha muita relação com o que já sei, tenho também interesse em Cloud e Node para o back-end</p>
               </div>
             </ScrollAnimation>
           </div>
