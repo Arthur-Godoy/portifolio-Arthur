@@ -7,7 +7,7 @@ import "animate.css/animate.min.css";
 const projects = [
     {
         name: 'Task App',
-        description: 'Aplicação em Laravel, Um aplicativo de To-Do, totalmente personalizável, com login e criação de sessões.',
+        description: 'Aplicação em Laravel, Um aplicativo de To-Do, com login e criação de sessões.',
         tecnologies: 'Laravel - MYSQL - Bootstrap',
         link: 'http://taskapp-arthur.herokuapp.com/board/4',
         images:[
