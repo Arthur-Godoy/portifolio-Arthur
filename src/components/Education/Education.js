@@ -27,7 +27,7 @@ class Education extends Component {
                                                 <div className={classes.label}>
                                                     <h2 >Graduação <span>2021-2025</span></h2>
                                                     <h3>FDV</h3>
-                                                    <p>Graduação em Andamento, Em <b>Sistemas de Informação</b> com o foco em me tornar um desenvolvedor, sem dispensar o aprendizado de matérias que fojem disso.</p>
+                                                    <p>Graduação em Andamento, Em <b>Sistemas de Informação</b> com o foco em me tornar um desenvolvedor, sem dispensar o aprendizado de matérias que fujam disso.</p>
                                                 </div>
                                             </article>
                                         </ScrollAnimation>
