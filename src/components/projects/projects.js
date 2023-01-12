@@ -24,7 +24,7 @@ const projects = [
     {
         name: 'Bible App',
         tecnologies: 'React Native - CSS',
-        link: 'https://mega.nz/file/nfBkTACY#EN_iaen0j0u4uvUBkjMkCAUdl--dV7b25pjTh43aLSY',
+        link: 'https://mega.nz/file/KLR1AYSS#0QnE2M3Uo_4RES-_ZlOq0mWqtrWmCEGhaEbJfo0-qW4',
         description: 'Aplicação em React Native, usando uma base de dados em JSON da bíblia.',
         images:[
             {
