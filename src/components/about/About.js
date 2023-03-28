@@ -11,7 +11,7 @@ class About extends Component {
                     <span className={classes.head}>SOBRE MIM</span>
                     <h2 className={classes.heading}>Quem é Arthur?</h2>
                     <div className={classes.About}>
-                        <p> Meu nome é <b>Arthur Godoy</b> Apaixonado por tecnologia, atualmente estudo desenvolvimento full-stack com Laravel, já estou preparado para entrar no mercado, Ainda não tenho experiência porém tenho sede de aprender a de me mostrar valoroso para uma empresa, Porém ainda não tive oportunidade de me provar no mercado, e espero encontrar em breve :)  </p>
+                        <p> Meu nome é <b>Arthur Godoy</b>, atualmente trabalho com desenvolvimento full-stack usando Laravel & React/Vue, atualmente trabalho como Freelancer buscando sempre fazer o meu melhor em cada projeto. Aqui você poderá ver alguns deles.  </p>
                     </div>
                 </ScrollAnimation>
             </div>

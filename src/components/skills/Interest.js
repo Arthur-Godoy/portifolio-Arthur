@@ -20,7 +20,7 @@ class Interest extends Component {
             <ScrollAnimation offset={0} animateIn="fadeInLeft" duration={2.4} animateOnce={true} initiallyVisible={true}>
               <div className={classes.app}>
                 <h3>Desenvolvimento Web</h3>
-                <p>Sou um desenvolvedor full-stack, hoje fazendo aplicações com Laravel(PHP), e o front-end com, HTML, CSS, JS, Bootstrap e React</p>
+                <p>Sou um desenvolvedor full-stack, hoje fazendo aplicações com Laravel(PHP), e o front-end com, HTML, CSS, JS, Bootstrap, React ou Vue</p>
               </div>
             </ScrollAnimation>
             <ScrollAnimation offset={0} animateIn="fadeInLeft" duration={2.4} animateOnce={true} initiallyVisible={true}>

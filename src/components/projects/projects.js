@@ -38,7 +38,7 @@ const projects = [
         name: 'Aiko App',
         tecnologies: 'React Native - CSS',
         link: 'https://aiko-app-vercel.vercel.app/',
-        description: 'Aplicação em React Native, usando uma base de dados em JSON de maquinas, essas maquinas sao disponibilizadas em um mapa, onde é possivel ver todas as informações da mesma.',
+        description: 'Aplicação em React, usando uma base de dados em JSON de maquinas, essas maquinas sao disponibilizadas em um mapa, onde é possivel ver todas as informações da mesma.',
         images:[
             {
                 url:'images/AikoApp/1.gif',
