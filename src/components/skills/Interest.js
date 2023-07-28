@@ -13,20 +13,20 @@ class Interest extends Component {
           <div className={classes.Interest}>
             <ScrollAnimation offset={0} animateIn="fadeInLeft" duration={2.4} animateOnce={true} initiallyVisible={true}>
               <div className={classes.web}>
-                <h3>Desenvolvimento Mobile</h3>
-                <p> Comecei a desenvolver apps, usando o React Native, com ele é possivel construir aplicações robustas e de fácil manutenção</p>
+                <h3>API - Backend</h3>
+                <p> Quando descobri uma API, e o poder e versatilidade de uma foi amor a primeira vista. Hoje tenho o prazer de trabalhar no desenvolvimento de API, com os testes garantindo eficiência e robustez.</p>
               </div>
             </ScrollAnimation>
             <ScrollAnimation offset={0} animateIn="fadeInLeft" duration={2.4} animateOnce={true} initiallyVisible={true}>
               <div className={classes.app}>
-                <h3>Desenvolvimento Web</h3>
-                <p>Sou um desenvolvedor full-stack, hoje fazendo aplicações com Laravel(PHP), e o front-end com, HTML, CSS, JS, Bootstrap, React ou Vue</p>
+                <h3>Desenvolvimento Web - Front</h3>
+                <p>Comecei minha jornada pelo Front-End, e é onde teno mais conforto de atuar, utilizo React ou Vue nos meu projetos, porém trabaho também em desenvolvimentos usando HTML e CSS puros.</p>
               </div>
             </ScrollAnimation>
             <ScrollAnimation offset={0} animateIn="fadeInLeft" duration={2.4} animateOnce={true} initiallyVisible={true}>
               <div className={classes.other}>
                 <h3>Outros</h3>
-                <p>Tenho também vontade de aprofundar em Python, mesmo que não tenha muita relação com o que já sei, tenho também interesse em Cloud e Node para o back-end</p>
+                <p>MYSQL, Docker, Python, são alguns dos meus conhecimentos, tenho interesse em quase tudo que envolve Tecnologia, e gosto muito da área, portanto no futuro se Deus permitir, quero ter mais conhecimento e mais a agregar para qualquer pessoa.</p>
               </div>
             </ScrollAnimation>
           </div>

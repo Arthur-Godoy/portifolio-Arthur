@@ -67,7 +67,7 @@
     width: 40px;
     font-size:20px;
     height: 40px;
-background-color: #f9bf3f;
+    background-color: #f9bf3f;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
@@ -82,8 +82,17 @@ background-color: #f9bf3f;
 .timeline_icon_2 {
     background: #DE1DB4;
 }
+
 .timeline_icon_5 {
     background: #00ffff;
+}
+
+.timeline_icon_6 {
+    background: #c8ff00;
+}
+
+.timeline_icon_7 {
+    background: #ff6af3;
 }
 
 .timeline_icon_4{

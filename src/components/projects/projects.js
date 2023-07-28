@@ -34,39 +34,6 @@ const projects = [
         ]
     },
 
-    {
-        name: 'Aiko App',
-        tecnologies: 'React Native - CSS',
-        link: 'https://aiko-app-vercel.vercel.app/',
-        description: 'Aplicação em React, usando uma base de dados em JSON de maquinas, essas maquinas sao disponibilizadas em um mapa, onde é possivel ver todas as informações da mesma.',
-        images:[
-            {
-                url:'images/AikoApp/1.gif',
-                caption:'img1'
-            },
-        ]
-    },
-
-    {
-        name: 'ToDoApp',
-        tecnologies: 'Laravel - MYSQL - Bootstrap',
-        link: 'https://todoapp-simple-arthur.herokuapp.com/',
-        description: 'Aplicação em Laravel de uma plicação To-Do, dessa vez com um design mais minimalista e com menos funcionalidades que o Task App. ',
-        images:[
-            {
-                url:'images/ToDoApp/1.PNG',
-                caption:'img1'
-            },
-            {
-                url:'images/ToDoApp/2.PNG',
-                caption:'img1'
-            },
-            {
-                url:'images/ToDoApp/3.PNG',
-                caption:'img1'
-            },
-        ]
-    },
 ]
 
 class Projects extends Component {
@@ -85,9 +52,11 @@ class Projects extends Component {
                                 {project.images.map((slideImage, index)=> (
                                     <div key={index}>
                                         <div style={{ textAlign:'center' }}>
-                                            {project.name == 'Bible App' ? (
+                                            {project.name === 'Bible App' ? (
+                                                // eslint-disable-next-line jsx-a11y/alt-text
                                                 <img width="200px" height="400px" src={ slideImage.url } />
                                             ):(
+                                                // eslint-disable-next-line jsx-a11y/alt-text
                                                 <img width="951px" height="500px" src={ slideImage.url } />
                                             )}
                                         </div>
